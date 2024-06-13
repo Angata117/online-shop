@@ -15,15 +15,12 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+.container-custom{
+  max-width: 1440px;
+  width: 100%;
+}
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
 }
 
 @layer utilities {
