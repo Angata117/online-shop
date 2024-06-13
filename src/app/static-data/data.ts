@@ -2,7 +2,7 @@ import youtube from "/public/header/youtube.svg";
 import facebook from "/public/header/facebook.svg";
 import twitter from "/public/header/twitter.svg";
 import instagram from "/public/header/instagram.svg";
-import linkedIn from "/public/header/LinkedIn.svg";
+import linkedIn from "/public/header/linkedIn.svg";
 import gitHub from "/public/header/gitHub.svg";
 import cart from "/public/header/cart.svg";
 import heart from "/public/header/heart.svg";
