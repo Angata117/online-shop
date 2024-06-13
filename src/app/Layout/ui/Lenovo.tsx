@@ -3,8 +3,8 @@ import lenovo from "/public/home/lenovo.png";
 
 const Lenovo = () => {
   return (
-    <section className="container-custom">
-      <div className="lg:w-[1110px]  max-md:w-[70%] mx-auto  bg-[#47C1BF] bg-opacity-30 ">
+    <section className="container-custom mx-auto ">
+      <div className="lg:w-[1110px] mx-auto  max-md:w-[70%]  bg-[#47C1BF] bg-opacity-30 ">
         <div className="flex flex-col max-md:items-center md:flex-row justify-center sm:gap-10 gap-5 md:gap-20 lg:gap-40">
           <div className="">
             <Image src={lenovo} alt="Lenovo"></Image>

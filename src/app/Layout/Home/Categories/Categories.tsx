@@ -3,8 +3,8 @@ import Card from "./Card";
 
 const Categories = () => {
   return (
-    <section className="container-custom">
-      <div className="lg:w-[1110px]  flex flex-col border-t border-t-[#F4F6F8] mt-10 mx-auto pt-10 ">
+    <section className="container-custom mx-auto ">
+      <div className="lg:w-[1110px] flex flex-col border-t border-t-[#F4F6F8] mt-10 mx-auto pt-10 ">
         <div className="flex flex-row justify-between ">
           <h1 className="font-rubik font-bold text-[20px] md:text-[28px] md:leading-[44px] tracking-[0.2px] text-[#161D25]">
             Category
