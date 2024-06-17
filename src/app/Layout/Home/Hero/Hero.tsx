@@ -6,8 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Hero = () => {
   return (
     <section className="w-full bg-[#F9FAFB]">
-      <div className="container-custom mx-auto md:px-10 lg:px-20 flex flex-col md:flex-row pt-10 md:pt-20 justify-between md:pb-10">
-        <div className="flex flex-col md:w-[40%]">
+      <div className="container-custom mx-auto md:px-10 lg:px-20 flex flex-col-reverse md:flex-row pt-10 md:pt-20 
+      justify-between sm:pb-10 pb-5">
+        <div className="flex flex-col max-sm:pl-2 md:w-[40%]">
           <p className="font-roboto text-[12px] sm:text-[14px] leading-[20px] text-[#47C1BF]">
             SONY WH-H910N
           </p>
